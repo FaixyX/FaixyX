@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **faizanfaizy97@gmail.com**
 
-- 📄 Know about my experiences [https://faizanfaryadresume.tiiny.site](https://faizanfaryadresume.tiiny.site)
+- 📄 Know about my experiences [Faizan Faryad Resume](https://faizanfaryadresume.tiiny.site)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -35,6 +35,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faixyx&show_icons=true&locale=en&layout=compact" alt="faixyx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faixyx&show_icons=true&locale=en" alt="faixyx" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=faixyx&show_icons=true&locale=en" alt="faixyx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faixyx&" alt="faixyx" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=faixyx&" alt="faixyx" /></p>
