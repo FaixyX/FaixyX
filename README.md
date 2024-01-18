@@ -30,10 +30,13 @@
 
 
 <body style="margin: 0; padding: 0; display: flex; align-items: flex-start; justify-content: flex-start; height: 100vh;">
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/faizanfaryad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faizanfaryad" /></a></p><br><br>
+
   <div style="display: flex; flex-direction: column; margin-left: 20px;"> <!-- Adjust margin as needed -->
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faixyx&show_icons=true&locale=en&layout=compact" alt="faixyx" /></p>
+    <h3 align="left">Support:</h3>
+  
+<p><a href="https://www.buymeacoffee.com/faizanfaryad"> <img align="left"   src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faizanfaryad" /></a></p><br><br>
+  
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faixyx&show_icons=true&locale=en&layout=compact" alt="faixyx" /></p>
     <p><img src="https://github-readme-stats.vercel.app/api?username=faixyx&show_icons=true&locale=en" alt="faixyx" /></p>
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=faixyx&" alt="faixyx" /></p>
   </div>
