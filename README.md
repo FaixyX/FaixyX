@@ -13,9 +13,6 @@
 
 - 📄 Know about my experiences [Faizan Faryad Resume](https://faizanfaryadresume.tiiny.site)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,8 +30,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/faizanfaryad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faizanfaryad" /></a></p><br><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faixyx&show_icons=true&locale=en&layout=compact" alt="faixyx" /></p>
+<body style="margin: 0; padding: 0; display: flex; align-items: flex-start; justify-content: flex-start; height: 100vh;">
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=faixyx&show_icons=true&locale=en" alt="faixyx" /></p>
+  <div style="display: flex; flex-direction: column; margin-left: 20px;"> <!-- Adjust margin as needed -->
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faixyx&show_icons=true&locale=en&layout=compact" alt="faixyx" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=faixyx&show_icons=true&locale=en" alt="faixyx" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=faixyx&" alt="faixyx" /></p>
+  </div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=faixyx&" alt="faixyx" /></p>
+</body>
