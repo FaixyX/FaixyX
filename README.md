@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Faizan Faryad</h1>
-<h3 align="center">Computer Science undergraduate with strong programming skills. Enthusiast to learn and discover new skills. Passionate to make the web Apps using MERN Stack (focus on Node/Expressjs), also has little experience in Web Crawling and Automation using Python (Scrapy, Selenium and BS-4.)</h3>
+<h3 align="center">Computer Science Undergraduate with strong programming skills and a passion for software development. Eager to learn and explore emerging technologies in the field of AI and web development.
+
+Proficient in Full Stack Python Development , with experience building scalable applications using Django as the backend framework and Vue.js or React.js on the frontend. Familiar with PostgreSQL for robust data management and application state handling.
+
+Experienced in Web Scraping and Automation using Python libraries such as DrissionPage, Scrapy , BeautifulSoup (BS4) , and Selenium . Comfortable extracting and processing structured data from websites and automating repetitive tasks.
+
+Enthusiastic about Generative AI , including working with Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems. Has hands-on experience integrating AI models into applications using OpenAI API keys and exploring how LLMs can enhance user experiences and automate content generation.
+
+Always looking to expand technical horizons by learning new tools and frameworks while staying up-to-date with the latest trends in AI and full-stack development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faixyx&label=Profile%20views&color=0e75b6&style=flat" alt="faixyx" /> </p>
 
