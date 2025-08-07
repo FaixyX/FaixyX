@@ -47,7 +47,6 @@ Always looking to expand technical horizons by learning new tools and frameworks
   
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faixyx&show_icons=true&locale=en&layout=compact" alt="faixyx" /></p>
     <p><img src="https://github-readme-stats.vercel.app/api?username=faixyx&show_icons=true&locale=en" alt="faixyx" /></p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faixyX" alt="GitHub Streak" /></a>
   </div>
 
 </body>
